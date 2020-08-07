@@ -1,0 +1,14 @@
+body{
+}
+
+.collapse{
+  justify-content: flex-end;
+}
+.navbar{
+  background: white !important;
+  padding: 0%;
+}
+
+.navbar img {
+  height: 30px;
+}
