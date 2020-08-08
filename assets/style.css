@@ -18,7 +18,8 @@ body{
   padding: 0px;
 }
 .header img{
-  height: 70vh;
+  height: 30vh;
+  width: 45vw;
 }
 
 .main-container{
@@ -40,8 +41,43 @@ h2, p{
 .nosotros-row{
   height: 100%;
 }
+.Nosotros-image{
+  /* display: flex;
+  align-items: flex-end; */
+  /* justify-content: center;
+  padding-bottom: 20%; */
+}
+.Nosotros-image img{
+  max-width: 60vw;
+  margin-bottom: 30px;
+}
 /* /Nosotros */
 
+/* Contenido */
 .contenido {
   height: 100vh;
 }
+
+.contenido-tittle h2{
+  color: #2485AA;
+  font-weight: 200;
+}
+
+/* /Contenido */
+
+/* Contacto */
+.contacto{
+  height: 90vh;
+  background-color: #2485AA;
+}
+.contacto h2{
+  margin-top: 40px;
+}
+.contacto img{
+  height: 50px;
+  width: 50px;
+}
+.fila-contacto{
+  height: 100%;
+}
+/* /Contacto */
