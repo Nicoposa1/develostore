@@ -12,3 +12,36 @@ body{
 .navbar img {
   height: 30px;
 }
+
+/*  Main  */
+.header {
+  padding: 0px;
+}
+.header img{
+  height: 70vh;
+}
+
+.main-container{
+  margin: auto;
+  height: 95vh;
+  width: 99vw;
+}
+/* /Main   */
+
+/* Nosotros */
+.nosotros{
+  background: #2485AA;
+  height: 100vh;
+}
+
+h2, p{
+  color: white;
+}
+.nosotros-row{
+  height: 100%;
+}
+/* /Nosotros */
+
+.contenido {
+  height: 100vh;
+}
